@@ -1,0 +1,28 @@
+
+
+-> hdfs copyToLocal /hdfsFolder/file /localsystem
+[To take the file from hadoop ]
+
+-> You have to list all file & sub-folders dekhne in human readable 
+  Give the locatiion of parent /regex 
+
+-> total disk usuage saari replica using the commad
+
+-> remove some file using rm -r [You will see moving to Trash]
+
+-> again remove the file [Trash move ] 
+
+-> you need to retrive the files from hadoop file location to your system
+
+-> by default hdfs 3 
+	putting hdfs I want to change ki replication
+
+     replication factor 5 at the time of putting the files
+
+-> file [metatda we have nn]
+
+location , blocks, file [commands]
+
+-> change the owner of the file from hdfs to clouder or any other user
+
+----------------------------------------------------------
